@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "lib": [
+            "dom",
+            "es5",
+            "es6"
+        ]
+    },
+    "files": [
+        "src/app.ts"
+    ]
+}
